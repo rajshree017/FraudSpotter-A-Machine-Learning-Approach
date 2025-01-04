@@ -8,9 +8,9 @@ Total Reviews: 40,000
 20,000 Human-Generated Reviews (OR)
 20,000 Computer-Generated Reviews (CG)
 # Key Techniques and Tools
-Text Preprocessing-
+Text Preprocessing -
 Punctuation removal, stopword elimination, stemming, lemmatization, and digit removal.
-Text Vectorization-
+Text Vectorization -
 CountVectorizer and TF-IDF for transforming text into feature vectors.
 Machine Learning Models-
 Support Vector Classifier (88% accuracy)
